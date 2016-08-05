@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_edittext_preference">Edit text preference</string>
+    <string name="summary_edittext_preference">An example that uses an edit text dialog</string>
+    <string name="dialog_title_edittext_preference">Enter your favorite animal</string>
+    <string name="title_checkbox_preference">Checkbox preference</string>
+    <string name="summary_checkbox_preference">This is a checkbox</string>
+    <string name="app_name">Project2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="title_list_preference">List preference</string>
+    <string name="summary_list_preference">An example that uses a list dialog</string>
+    <string name="dialog_title_list_preference">Choose one</string>
+    <string name="title_screen_preference">Screen preference</string>
+    <string name="summary_screen_preference">Shows another screen of preferences</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="summary_fragment_preference">Shows another fragment of preferences</string>
+    <string name="title_next_screen_toggle_preference">Toggle preference</string>
+    <string name="summary_next_screen_toggle_preference">Preference that is on the next screen but same hierarchy</string>
+    <string name="title_intent_preference">Intent preference</string>
+    <string name="summary_intent_preference">Launches an Activity from an Intent</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="title_parent_preference">Parent checkbox preference</string>
+    <string name="summary_parent_preference">This is visually a parent</string>
+    <string name="title_child_preference">Child checkbox preference</string>
+    <string name="summary_child_preference">This is visually a child</string>
+    <string name="sharemessage">Something to cherish, enjoy!</string>
+    <string name="shareTitle">An image for you</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_sketch">Black and White Sketch</string>
+    <string name="menu_colorize">Colorize Image</string>
+    <string name="menu_share">Share Image</string>
+    <string name="saturation_pref_description">Set color saturation. Enter a number between 0 and 100. Higher numbers correspond to more colorful images</string>
+    <string name="saturation_pref_title">Saturation</string>
+    <string name="sketchiness_pref_description">Set BW threshold. Enter a number between 0 and 100. Higher numbers correspond to less detail and a whiter image</string>
+    <string name="sketchiness_pref_title">Sketchiness</string>
+    <string name="share_options_header">Share Options</string>
+    <string name="share_subject_title">Share Subject</string>
+    <string name="share_subject_description">This is the subject of the message you would like to share</string>
+    <string name="share_text_title">Share Text</string>
+    <string name="share_text_description">This is the text you would like to share</string>
+    <string name="render_option_header">Rendering Options</string>
+    <string name="custom_img_title">Customize Image</string>
+    <string name="custom_img_description">Customize the level of sketchiness and color saturation</string>
+    <string name="share_subject_default">Check out this pic!</string>
+    <string name="share_text_default">I made this image using an app I made for CPSC 495.</string>
+    <string name="share_prompt">Share Image to</string>
+
+</resources>

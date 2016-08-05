@@ -1,0 +1,428 @@
+[
+    {
+        "outputFile": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 52,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 52,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\Project2\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 775
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 52,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 52,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Desktop\\Project2_Solution_color_Appbar\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 775
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 52,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 52,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\vinsa_000\\Documents\\College\\Junior Semester 2\\Android\\Projects\\Project 2\\Project2_Solution_color_Appbar - Copy\\bitmap_utilities\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 775
+                    }
+                }
+            }
+        ]
+    }
+]
